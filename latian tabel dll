@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>INI LATIAN</title>
+    </head>
+    <body>
+<center>
+    <h1><b><u>Ini adalah latian html</u></b></h1>
+</center>
+
+
+<!-- Ini bawahnya coret2an
+begitulah cara buat tabel di html, gampang banget kan? tinggal buat tag table terus buat tr buat barisnya, terus buat td buat kolomnya, terus isi deh sesuai kebutuhan, jangan lupa kasih border biar keliatan tabelnya, kalau mau lebih rapi bisa kasih css juga, tapi ini latian dasar jadi kita pakai yang sederhana aja ya. 
+-->
+<strong>apa iniii???????</strong>
+<a href="https://instagram.com" target="_blank">
+    Instagram
+</a>
+<img src="gambar.jpg" alt="Foto">
+
+
+<hr>
+<b>ini adalah <i> contoh html</i></b>
+<h1>ini adalah heading 1</h1><br>
+<h2>ini adalah heading 2</h2>
+<u>ini garis bawah lah intinya</u>
+<h2><s>ini heading 2 dengan corettt</s></h2>
+<h2>ini heading 2</h2>
+<p><i>ini paragraf</i></p>l
+<h3>perkenalkan saya</h3>
+<li>saya suka makan</li>
+<li><b>saya <u>suka minum</u></b></li>
+
+<h1><u>Nama saya</u></h1>
+<p><i>nama saya tempe</i></p>
+<ul>
+    <li>dasarrrr</li>
+    <li>kamu udah makan?</li>
+</ul>
+<h1>ini adalah heading 1 ya teman</h1>
+<h2><b>ini adalah heading 2 dengan font tebal</b></h2>
+<h3><u><i>ini adalah heading 3 dengan garis bawah dan italic</i></u></h3>
+
+<ol>
+    <li>ini list</li>
+    <li>ini list 2</li>
+</ol>
+
+
+<center>
+    <h3><u>ini tabel ya adik2</u></h3>
+</center>
+
+<table border="1">
+    <tr>
+        <th>Nama</th>
+        <th>Umur</th>
+        <th>Kelas</th>
+        <th>Sekolah</th>
+    </tr>
+    <tr>
+        <td>Raditya Musyaffa</td>
+        <td>16</td>
+        <td>10 RPL</td>
+        <td>SMK Muhammadiyah 1 YK</td>
+    </tr>
+    <tr>
+        <td>Muhammad Abid</td>
+        <td>16</td>
+        <td>10 RPL</td>
+        <td>SMK Muhammadiyah 1 YK</td>
+    </tr>
+    <tr>
+        <td>Muhammad Akbar</td>
+        <td>16</td>
+        <td>10 RPL</td>
+        <td>SMK Muhammadiyah 1 YK</td>
+    </tr>
+    <tr>
+        <td>Sigit Pramono</td>
+        <td>16</td>
+        <td>10 RPL</td>
+        <td>SMK Muhammadiyah 1 YK</td>
+    </tr>
+    <tr>
+        <td>Al Gusti</td>
+        <td>16</td>
+        <td>10 RPL</td>
+        <td>SMK Muhammadiyah 1 YK</td>
+    </tr>
+</table> 
+
+<p style="color:aquamarine;">
+    Halo Dunia
+</p>
