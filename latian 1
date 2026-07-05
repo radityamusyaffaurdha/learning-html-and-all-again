@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Index lah ya</title>
+    </head>
+    <body>
+        <center>
+            <h1><b><u>Ini adalah tulisan tengah</u></b></h1>
+        </center>
+        <h1>Ini Heading satu</h1>
+        <h2>Ini Heading duaa</h2>
+        <p> ini coba diatas tag body</p>
+    </body>
+    <p><style>
+        body {
+            background-color: rgba(158, 154, 159, 0.686);
+        }
+    </style></p>
+    <p>coba aja</p>
+</html>
+<p>Ini tulisan di bawah html, info lebih lanjut bisa cek di <a href="https://www.w3schools.com/html/html_intro.asp">w3school</a> yaa
+</p>
